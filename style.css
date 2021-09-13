@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin: 0; 
+    padding: 0;
+}
+
+/* NAV MENU */
+.topSection{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    height: 86.5vh;
+    background-image: url(/engagmentPhotos/engament3.jpeg);
+    background-size: cover;
+}
+.headerContainer{
+    width: 100%;
+    background: black;
+    color: white;
+    
+}
+
+ul{
+    /* padding: 0;
+    margin: 0; */
+}
+
+li{
+    /* width: 20%;
+    list-style: none;
+    float: left;
+} */
+
+li a {
+    text-decoration: none;
+}
+
+.leftNav{
+
+}
+
+.rightNav{
+    /* margin-left: 75px; */
+    
+}
+
+h1{
+    /* clear: both;
+    height: 90vh;
+    display: flex; */
+
+}
+
+.inviteInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: yellow;
+}
